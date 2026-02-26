@@ -46,8 +46,8 @@ routine-tracking apps.
 
 ## Clone the repository
 
-git clone https://github.com/bcampagnoli/habit-tracker-api.git cd
-habit-tracker-api
+git clone https://github.com/bcampagnoli/habit-tracker-api.git 
+cd habit-tracker-api
 
 ## Install dependencies
 
